@@ -2,8 +2,8 @@
   "name": "material-start",
   "private": true,
   "version": "0.0.2",
-  "description": "A starter project for AngularJS Material",
-  "repository": "https://github.com/angular/material-start",
+  "description": "Jobminx B2B Talent Project",
+  "repository": "https://github.com/mzupek/materialjobminxapp",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
@@ -18,5 +18,8 @@
     "postinstall": "bower update",
     "prestart": "npm update",
     "test": "protractor ./e2e/protractor.conf.js"
+  },
+    "engines": {
+    "node": "0.12.x"
   }
 }
