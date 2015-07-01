@@ -1,5 +1,5 @@
 {
-  "name": "Jobminx B2b",
+  "name": "Jobminx",
   "private": true,
   "version": "0.0.2",
   "description": "Jobminx B2B Talent Project",
@@ -29,6 +29,7 @@
     "test": "protractor ./e2e/protractor.conf.js"
   },
     "engines": {
-    "node": "0.12.1"
+    "node": "0.12.1",
+    "npm" : "2.5.1"
   }
 }
